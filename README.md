@@ -27,7 +27,7 @@ Which groups of customers behave alike, and which of them should the business pr
 
 ## Data
 
-The order data belongs to the business and is **not included**. Sample-row previews have been removed from the exported notebook, and the notebook shows only aggregate outputs and plots.
+The order data belongs to the business and is **not included**.
 
 ## Limitations
 
